@@ -1,6 +1,6 @@
 ### Hello!
 
-I am a programmer that primarily programs in JavaScript, TypeScript, and very rarely C/C++ 
+I am a programmer that primarily programs in JavaScript, TypeScript, C#, and very rarely C/C++ 
 
 <!---
 bymith/bymith is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
