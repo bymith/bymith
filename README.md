@@ -1,6 +1,6 @@
 ### Hello!
 
-I am a full stack dev that primarily uses JavaScript, TypeScript, C#, and very rarely C/C++ 
+I am a full stack dev that primarily uses JavaScript, TypeScript, and sometimes C# 
 
 <!---
 bymith/bymith is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
